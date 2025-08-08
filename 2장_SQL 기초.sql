@@ -1,0 +1,30 @@
+/*
+
+SQL 연습문제
+
+*/
+
+
+
+
+CREATE TABLE TblUser(
+USER_ID PRIMARY KEY,
+USER_NAME VARCHAR2(10),
+USER_HP VARCHAR2(20),
+USER_AGE NUMBER(5)
+USER_ADDR VARCHAR2(10)
+);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
